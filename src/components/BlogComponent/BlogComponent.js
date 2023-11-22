@@ -20,7 +20,7 @@ const BlogComponent = ({ blogData }) => {
 
         <div className="blog-metadata">
           <div className="author-info">
-            <div className="thought-by">thought </div>
+            <div className="thought-by">Musing </div>
             <div className ="author-name">by {author}</div>
             
             
